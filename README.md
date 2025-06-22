@@ -1,7 +1,6 @@
 ![Banner](./banner.png)
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
-<h2>¡Hola! Soy David Santiago Girón Bonilla</h2>
+<h2>¡Hola! Soy David Santiago Giron Bonilla</h2>
 
 ### 👨🏻‍💻 Sobre mí
 Desarrollador de Software enfocado en interfaces web reutilizables, accesibles y de alta calidad.  

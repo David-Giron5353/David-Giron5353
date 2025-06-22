@@ -14,7 +14,7 @@ Apasionado por el aprendizaje continuo, el trabajo colaborativo y la exploració
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Habilidades Técnicas
 
 #### 💻 Lenguajes de Programación
 <p>
@@ -36,14 +36,14 @@ Apasionado por el aprendizaje continuo, el trabajo colaborativo y la exploració
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://static-00.iconduck.com/assets.00/stencil-icon-2048x1444-kw3lx8rn.png" height="40" alt="StencilJS"/>
-  <img src="https://storybook.js.org/images/logos/icon-storybook.svg" height="40" alt="Storybook"/>
+  <img src="./assets/stencil.svg" height="40" alt="StencilJS"/>
+  <img src="https://img.icons8.com/?size=100&id=PjHwM20aXrT7&format=png&color=000000" height="40" alt="Storybook"/>
 </p>
 
 #### 🔧 Herramientas de Versionamiento
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/wiki/atlassianlabs/sourcetree/SourceTreeLogo.png" height="40" alt="SourceTree"/>
+  <img src="https://img.icons8.com/?size=100&id=F8p20Vd88Bus&format=png&color=000000" height="40" alt="SourceTree"/>
 </p>
 
 #### 🗂️ Repositorios
@@ -60,7 +60,7 @@ Apasionado por el aprendizaje continuo, el trabajo colaborativo y la exploració
 #### 🔍 Pruebas de APIs
 <p>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
-  <img src="https://avatars.githubusercontent.com/u/101727041?s=200&v=4" height="40" alt="Bruno"/>
+  <img src="./assets/bruno.svg" height="40" alt="Bruno"/>
 </p>
 
 #### 🎨 Diseño y Prototipado
@@ -70,7 +70,7 @@ Apasionado por el aprendizaje continuo, el trabajo colaborativo y la exploració
 
 #### 📋 Metodologías Ágiles
 <p>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-scrum-agile-flatart-icons-outline-flatarticons.png" height="40" alt="SCRUM"/>
+  <img src="https://img.icons8.com/?size=100&id=oBQdUqMEZHS9&format=png&color=000000" height="40" alt="SCRUM"/>
 </p>
 
 ---

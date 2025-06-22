@@ -36,7 +36,7 @@ Apasionado por el aprendizaje continuo, el trabajo colaborativo y la exploració
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="./assets/stencil.svg" height="40" alt="StencilJS"/>
+  <img src="./assets/stencil.jpg" height="40" alt="StencilJS"/>
   <img src="https://img.icons8.com/?size=100&id=PjHwM20aXrT7&format=png&color=000000" height="40" alt="Storybook"/>
 </p>
 

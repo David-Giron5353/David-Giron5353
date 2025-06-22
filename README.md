@@ -49,7 +49,7 @@ Apasionado por el aprendizaje continuo, el trabajo colaborativo y la exploració
 #### 🗂️ Repositorios
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket"/>
-  <img src="./assets/github.svg" height="40" alt="GitHub"/>
+  <img src="./assets/github.png" height="40" alt="GitHub"/>
 </p>
 
 #### 📝 Editor de Código

@@ -60,7 +60,7 @@ Apasionado por el aprendizaje continuo, el trabajo colaborativo y la exploració
 #### 🔍 Pruebas de APIs
 <p>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
-  <img src="./assets/bruno.svg" height="40" alt="Bruno"/>
+  <img src="./assets/bruno.png" height="40" alt="Bruno"/>
 </p>
 
 #### 🎨 Diseño y Prototipado
